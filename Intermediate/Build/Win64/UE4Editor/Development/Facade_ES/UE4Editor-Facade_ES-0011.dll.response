@@ -1,0 +1,89 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"D:\juego\Facade_ES\Intermediate\Build\Win64\Facade_ESEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Enemigo_Facade.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ES.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESGameMode.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESPawn.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESProjectile.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_level.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\FACADE_UNITY.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga_Basic.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga_Nodriza.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Enemigo_Facade.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ES.init.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESGameMode.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESPawn.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_ESProjectile.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Facade_level.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\FACADE_UNITY.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga_Basic.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\NaveEnemiga_Nodriza.gen.cpp.obj"
+"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"D:\juego\Facade_ES\Binaries\Win64\UE4Editor-Facade_ES-0011.dll"
+/IMPLIB:"D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\UE4Editor-Facade_ES-0011.suppressed.lib"
+/PDB:"D:\juego\Facade_ES\Binaries\Win64\UE4Editor-Facade_ES-0011.pdb"
+/ignore:4078

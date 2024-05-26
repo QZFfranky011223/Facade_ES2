@@ -1,0 +1,7 @@
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Definitions.Facade_ES.h
+D:\juego\Facade_ES\Source\Facade_ES\Enemigo_Facade.h
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Inc\Facade_ES\Enemigo_Facade.generated.h
+D:\juego\Facade_ES\Source\Facade_ES\Facade_level.h
+D:\juego\Facade_ES\Source\Facade_ES\FACADE_UNITY.h
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Inc\Facade_ES\FACADE_UNITY.generated.h
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Inc\Facade_ES\Facade_level.generated.h

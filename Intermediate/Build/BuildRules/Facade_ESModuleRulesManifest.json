@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\juego\\Facade_ES\\Source\\Facade_ES\\Facade_ES.Build.cs",
+		"D:\\juego\\Facade_ES\\Source\\Facade_ES.Target.cs",
+		"D:\\juego\\Facade_ES\\Source\\Facade_ESEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

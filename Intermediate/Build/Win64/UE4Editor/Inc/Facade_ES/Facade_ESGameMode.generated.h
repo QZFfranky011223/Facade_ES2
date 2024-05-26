@@ -1,0 +1,96 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef FACADE_ES_Facade_ESGameMode_generated_h
+#error "Facade_ESGameMode.generated.h already included, missing '#pragma once' in Facade_ESGameMode.h"
+#endif
+#define FACADE_ES_Facade_ESGameMode_generated_h
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_SPARSE_DATA
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_RPC_WRAPPERS
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAFacade_ESGameMode(); \
+	friend struct Z_Construct_UClass_AFacade_ESGameMode_Statics; \
+public: \
+	DECLARE_CLASS(AFacade_ESGameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Facade_ES"), FACADE_ES_API) \
+	DECLARE_SERIALIZER(AFacade_ESGameMode)
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_INCLASS \
+private: \
+	static void StaticRegisterNativesAFacade_ESGameMode(); \
+	friend struct Z_Construct_UClass_AFacade_ESGameMode_Statics; \
+public: \
+	DECLARE_CLASS(AFacade_ESGameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/Facade_ES"), FACADE_ES_API) \
+	DECLARE_SERIALIZER(AFacade_ESGameMode)
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	FACADE_ES_API AFacade_ESGameMode(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AFacade_ESGameMode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(FACADE_ES_API, AFacade_ESGameMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFacade_ESGameMode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	FACADE_ES_API AFacade_ESGameMode(AFacade_ESGameMode&&); \
+	FACADE_ES_API AFacade_ESGameMode(const AFacade_ESGameMode&); \
+public:
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	FACADE_ES_API AFacade_ESGameMode(AFacade_ESGameMode&&); \
+	FACADE_ES_API AFacade_ESGameMode(const AFacade_ESGameMode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(FACADE_ES_API, AFacade_ESGameMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFacade_ESGameMode); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AFacade_ESGameMode)
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Facade() { return STRUCT_OFFSET(AFacade_ESGameMode, Facade); }
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_9_PROLOG
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_SPARSE_DATA \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_RPC_WRAPPERS \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_INCLASS \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_SPARSE_DATA \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	Facade_ES_Source_Facade_ES_Facade_ESGameMode_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> FACADE_ES_API UClass* StaticClass<class AFacade_ESGameMode>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Facade_ES_Source_Facade_ES_Facade_ESGameMode_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Facade_ES",
+			"Path": "D:\\juego\\Facade_ES\\Source\\Facade_ES.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Facade_ESEditor",
+			"Path": "D:\\juego\\Facade_ES\\Source\\Facade_ESEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

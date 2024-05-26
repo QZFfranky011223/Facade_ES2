@@ -1,0 +1,2 @@
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Definitions.Facade_ES.h
+D:\juego\Facade_ES\Source\Facade_ES\Facade_ES.h

@@ -1,0 +1,5 @@
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Development\Facade_ES\Definitions.Facade_ES.h
+D:\juego\Facade_ES\Source\Facade_ES\NaveEnemiga_Nodriza.h
+D:\juego\Facade_ES\Source\Facade_ES\NaveEnemiga.h
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Inc\Facade_ES\NaveEnemiga.generated.h
+D:\juego\Facade_ES\Intermediate\Build\Win64\UE4Editor\Inc\Facade_ES\NaveEnemiga_Nodriza.generated.h
